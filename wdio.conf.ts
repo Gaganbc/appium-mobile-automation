@@ -10,7 +10,6 @@ export const config = {
       platformName: 'Android',
       'appium:automationName': 'UiAutomator2',
       'appium:deviceName': 'Pixel_9_Pro',
-      // Point this at your own app's .apk - not included in this repo.
       'appium:app': './app.apk',
     },
   ],
